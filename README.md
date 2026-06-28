@@ -1,6 +1,6 @@
 Wasel AI Engine & Backend
 
-📱 Note: This repository contains the FastAPI backend and AI logic. The cross-platform Flutter mobile application can be found here: [https://github.com/A-Alshunaybir/wasel-app].
+> ⚙️ Note: This repository contains the FastAPI backend and AI logic. The cross-platform Flutter mobile application can be found here: [https://github.com/A-Alshunaybir/wasel-app].
 
 The Wasel AI Engine is a standalone backend API built to power a smart cultural event discovery platform in Riyadh. It handles machine learning models, natural language processing, and live data manipulation to provide users with a personalized and dynamic experience.
 
