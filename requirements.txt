@@ -1,0 +1,11 @@
+fastapi
+firebase_admin
+numpy
+pandas
+protobuf
+pydantic
+python-dotenv
+scikit-learn
+uvicorn[standard]
+google-genai
+groq
