@@ -5,7 +5,7 @@ app_port: 7860
 pinned: false
 colorFrom: purple
 colorTo: yellow
-short_description: AI-powered backend for cultural event discovery in Riyadh using FastAPI, ML, and RAG-based conversational AI.
+short_description: AI backend for smart event discovery in Riyadh
 ---
 # Wasel AI Engine & Backend
 
