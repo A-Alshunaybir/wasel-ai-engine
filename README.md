@@ -13,7 +13,7 @@ short_description: AI backend for smart event discovery in Riyadh
 >
 > This repository contains the **FastAPI backend and AI logic**.
 > The cross-platform Flutter mobile application can be found here:
-> https://github.com/A-Alannoud/wasel-app
+> https://github.com/A-Alshunaybir/wasel-app
 
 ## Overview
 
@@ -113,4 +113,4 @@ In addition to backend development, Alanoud Alshunaybir contributed to the Flutt
 
 The Flutter mobile application can be found here:
 
-https://github.com/A-Alannoud/wasel-app
+https://github.com/A-Alshunaybir/wasel-app
